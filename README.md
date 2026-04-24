@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This project demonstrates the full workflow of a data analyst working with relational databases: designing a schema, populating it with realistic data, and extracting business insights using progressively complex SQL queries — all within Python.
+This project demonstrates the full workflow of a data analyst working with relational databases: designing a schema, populating it with realistic data, and extracting business insights using progressively complex SQL queries - all within Python.
 
 A synthetic UK retail dataset is generated inside the notebook (no downloads required), loaded into a **SQLite** relational database, and analysed using **10 SQL queries** covering everything from basic aggregations to window functions and CTEs.
 
