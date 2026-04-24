@@ -117,5 +117,5 @@ sql-retail-analysis/
 ## Author
 
 **Kaveen Kodikarage**  
-BSc (Hons) Computing Systems — Ulster University  
+BSc (Hons) Computing Systems - Ulster University  
 📧 kaveenyasas14@gmail.com
