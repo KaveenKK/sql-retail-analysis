@@ -61,9 +61,9 @@ customers ──< orders ──< order_items >── products
 
 - **Python 3.10**
 - **sqlite3** (Python standard library) - database creation and querying
-- **pandas** — `read_sql_query()` to load SQL results into DataFrames
+- **pandas** - `read_sql_query()` to load SQL results into DataFrames
 - **Matplotlib / Seaborn** - visualising query results
-- **NumPy** — data generation
+- **NumPy** - data generation
 
 > No external database installation needed - SQLite runs entirely within Python.
 
