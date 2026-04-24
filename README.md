@@ -15,6 +15,12 @@ This project demonstrates the full workflow of a data analyst working with relat
 
 A synthetic UK retail dataset is generated inside the notebook (no downloads required), loaded into a **SQLite** relational database, and analysed using **10 SQL queries** covering everything from basic aggregations to window functions and CTEs.
 
+# Key Visualizations
+**Annual Revenue & Profit Margin**
+![Annual Revenue](q1_annual_revenue.png)
+
+**Profit Margin by Segment & Category**
+![Segment Heatmap](q10_segment_heatmap.png)
 ---
 
 ## Database Schema
