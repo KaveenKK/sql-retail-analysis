@@ -54,12 +54,12 @@ customers ──< orders ──< order_items >── products
 ##  Tech Stack
 
 - **Python 3.10**
-- **sqlite3** (Python standard library) — database creation and querying
+- **sqlite3** (Python standard library) - database creation and querying
 - **pandas** — `read_sql_query()` to load SQL results into DataFrames
-- **Matplotlib / Seaborn** — visualising query results
+- **Matplotlib / Seaborn** - visualising query results
 - **NumPy** — data generation
 
-> No external database installation needed — SQLite runs entirely within Python.
+> No external database installation needed - SQLite runs entirely within Python.
 
 ---
 
@@ -69,7 +69,7 @@ customers ──< orders ──< order_items >── products
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KaveenKK/sql-retail-analysis/blob/main/sql_retail_analysis.ipynb)
 
-The notebook generates its own dataset on first run — nothing to download.
+The notebook generates its own dataset on first run - nothing to download.
 
 ### Local
 
@@ -96,11 +96,11 @@ sql-retail-analysis/
 
 ## Key Business Findings
 
-- **Technology** drives the highest revenue but has the thinnest margins — Office Supplies is the most profitable category relative to revenue
+- **Technology** drives the highest revenue but has the thinnest margins - Office Supplies is the most profitable category relative to revenue
 - **Corporate** customers have the highest average order value across all regions
 - **London and the South East** lead on total revenue, though margin bands are competitive in other regions
 - Revenue shows clear **seasonal patterns**, peaking in Q3/Q4
-- **Discounts above 20%** consistently reduce profitability — a key insight for pricing strategy
+- **Discounts above 20%** consistently reduce profitability - a key insight for pricing strategy
 
 ---
 
