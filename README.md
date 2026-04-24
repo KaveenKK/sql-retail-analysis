@@ -1,4 +1,4 @@
-# 🛒 UK Retail Sales Analysis with SQL & Python
+# UK Retail Sales Analysis with SQL & Python
 
 ### Relational Database Design · SQL Querying · Business Insight Visualisation
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project demonstrates the full workflow of a data analyst working with relational databases: designing a schema, populating it with realistic data, and extracting business insights using progressively complex SQL queries — all within Python.
 
@@ -17,7 +17,7 @@ A synthetic UK retail dataset is generated inside the notebook (no downloads req
 
 ---
 
-## 🗃️ Database Schema
+## Database Schema
 
 Four related tables in **3rd Normal Form (3NF)**:
 
@@ -34,7 +34,7 @@ customers ──< orders ──< order_items >── products
 
 ---
 
-## 📊 SQL Queries Demonstrated
+##  SQL Queries Demonstrated
 
 | # | Query | SQL Technique |
 |---|---|---|
@@ -51,7 +51,7 @@ customers ──< orders ──< order_items >── products
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.10**
 - **sqlite3** (Python standard library) — database creation and querying
@@ -63,7 +63,7 @@ customers ──< orders ──< order_items >── products
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Easiest: Google Colab (no setup required)
 
@@ -82,7 +82,7 @@ jupyter notebook sql_retail_analysis.ipynb
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 sql-retail-analysis/
@@ -94,7 +94,7 @@ sql-retail-analysis/
 
 ---
 
-## 📌 Key Business Findings
+## Key Business Findings
 
 - **Technology** drives the highest revenue but has the thinnest margins — Office Supplies is the most profitable category relative to revenue
 - **Corporate** customers have the highest average order value across all regions
@@ -104,7 +104,7 @@ sql-retail-analysis/
 
 ---
 
-## 🔮 Future Extensions
+## Future Extensions
 
 - Port queries to **Microsoft SQL Server** or **PostgreSQL**
 - Build a **Power BI dashboard** consuming the same queries
@@ -114,7 +114,7 @@ sql-retail-analysis/
 
 ---
 
-## 👤 Author
+## Author
 
 **Kaveen Kodikarage**  
 BSc (Hons) Computing Systems — Ulster University  
